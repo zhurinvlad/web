@@ -1,0 +1,53 @@
+o: ActiveSupport::Cache::Entry:@valueI"	    <div class="entry">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png" alt="100px ruby logo.svg" />
+        <h3>123</h3>
+        <p>123123</p>>
+        <div class="price_line">
+            <span class="price">$0.20</span>
+        </div>
+    </div>
+    <div class="entry">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png" alt="100px ruby logo.svg" />
+        <h3>1233</h3>
+        <p>qwe</p>>
+        <div class="price_line">
+            <span class="price">$50.00</span>
+        </div>
+    </div>
+    <div class="entry">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png" alt="100px ruby logo.svg" />
+        <h3>1236</h3>
+        <p>https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png</p>>
+        <div class="price_line">
+            <span class="price">$15.00</span>
+        </div>
+    </div>
+    <div class="entry">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png" alt="100px ruby logo.svg" />
+        <h3>1239</h3>
+        <p>https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png</p>>
+        <div class="price_line">
+            <span class="price">$12.00</span>
+        </div>
+    </div>
+    <div class="entry">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png" alt="100px ruby logo.svg" />
+        <h3>Check</h3>
+        <p>Big green check</p>>
+        <div class="price_line">
+            <span class="price">$10.70</span>
+        </div>
+    </div>
+    <div class="entry">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png" alt="100px ruby logo.svg" />
+        <h3>Programming Ruby</h3>
+        <p>
+            Ruby is the fastest growing and most exciting dynamic language
+            out there. If you need to get working programs delivered fast,
+            you should add Ruby to your toolbox.
+        </p>>
+        <div class="price_line">
+            <span class="price">$49.95</span>
+        </div>
+    </div>
+:ET:@created_atf1447918663.955447:@expires_in0

@@ -1,0 +1,13 @@
+o: ActiveSupport::Cache::Entry:@valueI"    <div class="entry">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png" alt="100px ruby logo.svg" />
+        <h3>Programming Ruby</h3>
+        <p>
+            Ruby is the fastest growing and most exciting dynamic language
+            out there. If you need to get working programs delivered fast,
+            you should add Ruby to your toolbox.
+        </p>>
+        <div class="price_line">
+            <span class="price">$49.95</span>
+        </div>
+    </div>
+:ET:@created_atf1447918266.4534516:@expires_in0

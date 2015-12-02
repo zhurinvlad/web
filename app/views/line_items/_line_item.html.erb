@@ -1,0 +1,11 @@
+<% if line_item == @current_item %>
+<tr id="current_item">
+<% else %>
+<tr>
+<% end %>
+    <td><%= line_item.quantity %>&times;</td>
+    <td><%= line_item.product.title %></td>
+    <td class="item_price"><%= number_to_currency(line_item.total_price) %></td>
+    <td> <%= button_to '-', line_items_path(product_id: line_item.product, method_id: 'false')%> </td>
+    <td> <%= button_to 'X', line_item, method: :delete, data: { confirm: 'Вы уверены?' } %> </td>
+</tr>

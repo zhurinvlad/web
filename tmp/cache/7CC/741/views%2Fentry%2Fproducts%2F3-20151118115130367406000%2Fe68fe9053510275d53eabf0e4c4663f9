@@ -1,0 +1,9 @@
+o: ActiveSupport::Cache::Entry:@valueI"H    <div class="entry">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/100px-Ruby_logo.svg.png" alt="100px ruby logo.svg" />
+        <h3>Check</h3>
+        <p>Big green check</p>>
+        <div class="price_line">
+            <span class="price">$10.70</span>
+        </div>
+    </div>
+:ET:@created_atf1447916901.789512:@expires_in0
